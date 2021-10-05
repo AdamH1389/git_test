@@ -1,0 +1,1 @@
+This is Adam1389 first git project!
